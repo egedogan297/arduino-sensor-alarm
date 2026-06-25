@@ -49,6 +49,17 @@ The system has 6 distance zones. As the object gets closer, more LEDs activate a
 - 15 – 30 cm — single red LED, buzzer at 2000 Hz
 - Below 15 cm — both red LEDs on, buzzer at 3000 Hz
 
+## Photos
+
+### Circuit Setup
+![Circuit](images/circuit.jpeg)
+
+### Distance Zones in Action
+![Green - Safe](images/green.jpeg)
+![Yellow - Caution](images/yellow.jpeg)
+![Red - Danger](images/red.jpeg)
+![Double Red - Critical](images/double%20red.jpeg)
+
 ## What I learned
 
 - How HC-SR04 ultrasonic sensor works (trigger pulse, echo measurement)
@@ -63,3 +74,5 @@ Istanbul Ticaret University
 
 - Date: June 2026
 - Status: Completed
+
+
