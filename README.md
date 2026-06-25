@@ -60,3 +60,6 @@ The system has 6 distance zones. As the object gets closer, more LEDs activate a
 
 Ege Doğan — Electrical & Electronics Engineering Student
 Istanbul Ticaret University
+
+- Date: June 2026
+- Status: Completed
