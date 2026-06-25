@@ -52,13 +52,13 @@ The system has 6 distance zones. As the object gets closer, more LEDs activate a
 ## Photos
 
 ### Circuit Setup
-[Circuit](images/circuit.jpeg)
+![Circuit](circuit.jpeg)
 
 ### Distance Zones in Action
-[Green - Safe](images/green.jpeg)
-[Yellow - Caution](images/yellow.jpeg)
-[Red - Danger](images/red.jpeg)
-[Double Red - Critical](images/double%20red.jpeg)
+![Green - Safe](green.jpeg)
+![Yellow - Caution](yellow.jpeg)
+![Red - Danger](red.jpeg)
+![Double Red - Critical](double%20red.jpeg)
 
 ## What I learned
 
